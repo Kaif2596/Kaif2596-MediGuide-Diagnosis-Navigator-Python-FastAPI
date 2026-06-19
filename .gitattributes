@@ -1,0 +1,5 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+symptom_to_int.pkl filter=lfs diff=lfs merge=lfs -text
+trained_model.pkl filter=lfs diff=lfs merge=lfs -text
+cleaned[[:space:]]dataset.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
